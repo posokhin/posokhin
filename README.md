@@ -67,10 +67,6 @@ I am a results-driven Frontend Developer with a deep focus on building high-perf
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posokhin&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=posokhin&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### ⚡ Fun Fact
